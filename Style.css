@@ -322,6 +322,29 @@ body{
     background-color: khaki;
 }
 
+.mb-beige{
+    background-color:beige;
+}
+
+.mb-DeepSkyBlue{
+    background-color: DeepSkyBlue;
+}
+
+.mb-gold{
+    background-color: gold;
+}
+
+.mb-lightpink{
+    background-color: lightpink;
+}
+
+.mb-MediumAquaMarine{
+    background-color: MediumAquaMarine;
+}
+
+.mb-Orchid{
+    background-color: Orchid;
+}
 
 
 /*Percentage Classes */
@@ -359,6 +382,11 @@ body{
 .five-percent{
     height: inherit;
     width: 5%;
+}
+
+.sixty-five-percent{
+    height: inherit;
+    width: 65%;
 }
 #container{
     width: 98%;
